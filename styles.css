@@ -1,9 +1,4 @@
 /* BEGIN SETUP (you will not need to use these) */
-* {
-  background-color: black;
-  color: white;
-}
-
 #intro {
   text-align: center;
   margin: 50px;
@@ -27,7 +22,6 @@ h2 {
 .flag {
   height: 300px;
   width: 500px;
-  border-color: black;
   border-style: solid;
   margin-bottom: 5rem;
 }
@@ -37,7 +31,7 @@ h2 {
 }
 
 .threevert {
-  height: 33.3%;
+  height: 33.33%;
 }
 
 .threehoriz {
@@ -46,7 +40,7 @@ h2 {
 
 .threehoriz > div {
   height: 100%;
-  width: 33.3%;
+  width: 33.33%;
 }
 
 .narrow {
